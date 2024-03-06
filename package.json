@@ -1,0 +1,23 @@
+{
+  "name": "nxpack",
+  "version": "1.0.0",
+  "description": "basic app-demonstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NextYYY/nxpack.git"
+  },
+  "dependencies": {
+    "cod_for_tea": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "bugs": {
+    "url": "https://github.com/NextYYY/nxpack/issues"
+  },
+  "homepage": "https://github.com/NextYYY/nxpack#readme"
+}
