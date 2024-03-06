@@ -1,5 +1,5 @@
 {
-  "name": "nxpack",
+  "name": "nxpack_packedonce",
   "version": "1.0.0",
   "description": "basic app-demonstration",
   "main": "index.js",
